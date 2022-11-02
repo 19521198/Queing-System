@@ -1,6 +1,8 @@
 # Queing-System
 
-Queing-System là dự án em đã làm khi thực tập tại Công ty Alta Software nên em không thể public dự án, em có kèm video demo.
+Queing-System là dự án em đã làm khi thực tập tại Công ty Alta Software nên em không thể public dự án.
+
+Link video demo: https://drive.google.com/file/d/1yQDSJUZNEfjAdQbLv34BFsw3hkqRTLrT/view?usp=share_link.
 
 Front-end của trang web được viết bằng HTML, CSS, Javascript.
 
